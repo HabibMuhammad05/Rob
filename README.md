@@ -1,0 +1,15 @@
+# Rob - Deskripsi Tugas
+- untuk yang garis miring 2 (//) Hapus dan sesuaikan dengan program
+- gabungkan program untuk HC-05 dan L298N
+- agar menjadi program full untuk mobil remote Control
+- Sesuaikan perintah dari MIT APP Inventor dan program
+- "Maju", "mundur", "Kanan", "Kiri", "Stop"
+- tidak perlu menggunakan variabel speed(motorspeed)
+- Tambahkan penjelasan untuk setiap baris
+- Waktu pengerjaan sampai pertemuan selanjutnya
+- Usahakan kirim secepatnya
+- kirim Tugas melalui Whatsapp
+- Tugas harus sudah berhasil compile(tidak ada error)
+- Boleh sambil berdiskusi dengan yang lain
+- 
+- Selamat Mengerjakan
