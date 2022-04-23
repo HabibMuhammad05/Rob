@@ -1,15 +1,15 @@
 # Rob - Deskripsi Tugas
+- gabungkan dan tambahkan program untuk HC-05 dan L298N agar menjadi program full untuk mobil remote Control
 - untuk yang garis miring 2 (//) Hapus dan sesuaikan dengan program
-- gabungkan program untuk HC-05 dan L298N
-- agar menjadi program full untuk mobil remote Control
+- Tambahkan penjelasan untuk setiap baris program, termasuk baris void setup() dan void loop()
 - Sesuaikan perintah dari MIT APP Inventor dan program
 - "Maju", "mundur", "Kanan", "Kiri", "Stop"
 - tidak perlu menggunakan variabel speed(motorspeed)
-- Tambahkan penjelasan untuk setiap baris
 - Waktu pengerjaan sampai pertemuan selanjutnya
 - Usahakan kirim secepatnya
-- kirim Tugas melalui Whatsapp
+- kirim Tugas melalui Whatsapp atau email di zihnimiftah12@gmail.com
 - Tugas harus sudah berhasil compile(tidak ada error)
 - Boleh sambil berdiskusi dengan yang lain
+- kode diatas merupakan contoh jika terjadi error, dsb.
 - 
 - Selamat Mengerjakan
